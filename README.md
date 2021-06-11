@@ -1,7 +1,7 @@
 # Documentando con Alberto
 ## Mi primer laboratorio
 
-Me llamo Alberto Urquiza y elabore un repositorio empleando **GIT**  **Docker** llamado [Laboratorio01][blog].
+Me llamo Alberto Urquiza y elabore un repositorio empleando **GIT**  **Docker** llamado [Laboratorio01](./Documentacion-Laboratorio01.md)
 
 [Laboratorio Docker][blog1]
 
